@@ -132,9 +132,5 @@ Three models were developed to predict `Listening_Time_minutes`:
 - Improved feature engineering skills (target encoding, cyclic encoding, interactions).
 - Developed a reproducible ML workflow in VS Code.
 
-## Contact
-- **GitHub**: [Your GitHub URL]
-- **Kaggle**: [Your Kaggle Profile URL]
-- **LinkedIn**: [Your LinkedIn URL]
 
 This project demonstrates my ability to tackle real-world ML problems and is part of my journey to become a proficient data scientist.

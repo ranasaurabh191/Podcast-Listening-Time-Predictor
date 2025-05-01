@@ -172,4 +172,4 @@ Three models were developed to predict `Listening_Time_minutes`:
 - 🤖 Gained experience with ensemble methods (Random Forest, XGBoost, LightGBM).
 - 🌟 Improved feature engineering (target encoding, cyclic encoding, interactions).
 - ⚙️ Developed a reproducible ML workflow in VS Code.
-- **This project highlights my ability to tackle real-world ML problems and supports my journey to becoming a proficient data scientist.**
+**This project highlights my ability to tackle real-world ML problems and supports my journey to becoming a proficient data scientist.**
